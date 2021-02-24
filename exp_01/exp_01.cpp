@@ -1,3 +1,4 @@
+// Read and display of matrix size m*n using function.
 #include <iostream>
 using namespace std;
 const int MAX = 100;
