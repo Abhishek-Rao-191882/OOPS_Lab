@@ -1,4 +1,5 @@
-# OOPS_Lab
+# C++ Programming Lab (BT CS 405) 
+
 ## Abhishek Rao
 ## Roll no. 191882 
 ## B.tech CSE (4th sememster)
